@@ -7,4 +7,6 @@ Python GUI Application that recognizes cursive writing
 * __Copy to Clipboard :__ Recognized letters can be copied to clipboard
 <br/>
 NOTE: You can keep recognizing letters/digits one-by-one without clearing the canvas. <br/>
-      The interface will append each gesture for you
+      The interface will append each gesture for you <br/>
+      
+Uses the approach explained [here](http://depts.washington.edu/acelab/proj/dollar/index.html).
